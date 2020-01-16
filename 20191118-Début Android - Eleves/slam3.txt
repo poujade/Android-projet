@@ -1,0 +1,41 @@
+<![CDATA[
+        <h1>SLAM3 : conception et adaptation d\'une base de données</h1>\n
+        Ce module aborde les savoirs et savoir-faire liés à la conception et à l\’adaptation d\’une base de
+données et à la mise en œuvre des outils de programmation associés.
+Le recours à un langage de programmation associé à un SGBD permet d\’implémenter les concepts
+abordés, notamment les contraintes.
+        <h2> Savoir faire </h2>
+        <ul align="left">
+            <li> Concevoir une base de données </li>
+            <li> Valider un schéma de base de données </li>
+            <li> Programmer dans l\’environnement de développement associé à un SGBD </li>
+        </ul>
+        <h2> Savoirs associés </h2>
+        <ul align="left">
+            <li> Modèles de représentation des données </li>
+            <li> Représentation et implémentation des contraintes </li>
+            <li> Langage de programmation associé à un SGBD </li>
+        </ul>
+         <h2> Contextes SIO </h2>
+<h3>Bases de données utilisées  </h3>
+<ul align="left">
+            <li> MySQL (MariaDb) en 1ère et 2éme année </li>
+            <li> SQL Server 2016 avec Transact SQL en 2ème année </li>
+            <li> SQLite en 2ème année </li>
+        </ul>
+        <h3>ORM utilisés  </h3>
+<ul align="left">
+            <li> Eloquent (Framework Laravel) </li>
+            <li> Room: application Android développée sous Android Studio </li>
+        </ul>
+        <h3>Outil de modélisation  </h3>
+<ul align="left">
+            <li> Visual Paradigm pour la modélisation conceptuelle UML: diagrammes de classe, use case, activity, sequence </li>
+</ul>
+
+        <h3>Web Services  </h3>
+<ul align="left">
+            <li> Accès à des Web services REST, modèle de données JSON, via Laravel/PHP, Vue.js-JS </li>
+            <li> Développement d\'une API REST, données au format JSON </li>
+</ul>
+        ]]>

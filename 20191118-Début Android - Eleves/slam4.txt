@@ -1,0 +1,19 @@
+SLAM4 - Réalisation et maintenance de composants logiciels
+Ce module aborde les savoirs et savoir-faire liés à la mise en oeuvre d’environnements de développement. 
+Il s’intéresse notamment à l’utilisation et à l’enrichissement de bibliothèques de composants logiciels et à la programmation, 
+notamment au sein d’un framework
+
+Savoir-faire
+Programmer un composant logiciel
+Exploiter une bibliothèque de composants
+Adapter un composant logiciel
+Valider et documenter un composant logiciel
+Programmer au sein d’un framework
+Savoirs associés
+Caractéristiques d’un framework
+Techniques de gestion des évènements
+Techniques de gestion des erreurs
+Techniques de sécurisation
+Persistance et couche d’accès aux données, technologies et techniques associées
+Techniques et outils d’analyse et de rétro-conception
+Techniques de test unitaire et d’intégration d’un composant logiciel
